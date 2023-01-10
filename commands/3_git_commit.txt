@@ -1,0 +1,4 @@
+3. git commit
+ Usage: git commit -m “message”
+
+This command records or snapshots files permanently in the version history. All the files, which are there in the directory right now, are being saved in the Git file system.

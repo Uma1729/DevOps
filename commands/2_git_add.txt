@@ -1,0 +1,13 @@
+Usage (i): git add [file(s) name]
+
+This will add the specified file(s) into the Git repository, the staging area, where they are already being tracked by Git and now ready to be committed.
+
+GItCommand2
+Usage (ii): git add . or git add *
+
+This will take all our files into the Git repository, i.e., into the staging area.
+
+GItCommand3
+We can use this command as git add -A as well.
+
+Note: We will have to commit our files after we add them to the staging area.

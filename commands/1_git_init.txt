@@ -1,0 +1,5 @@
+1. git init
+
+Usage: git init [repository name]
+
+We have to navigate to our project directory and type the command git init to initialize a Git repository for our local project folder. Git will create a hidden .git directory and use it for keeping its files organized in other subdirectories.

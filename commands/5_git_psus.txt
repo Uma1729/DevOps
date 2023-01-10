@@ -1,0 +1,4 @@
+ git push
+Usage: git push origin [branch name]
+
+Suppose, we have made some changes in the file and want to push the changes to our remote repository on a particular branch. By using the command ‘git push,’ the local repository’s files can be synced with the remote repository on Github.

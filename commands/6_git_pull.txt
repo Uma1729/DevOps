@@ -1,0 +1,4 @@
+ git pull
+Usage: git pull origin master
+
+The git pull command first runs ‘git fetch’ which downloads the content from the specified remote repository and then immediately updates the local repo to match the content.
