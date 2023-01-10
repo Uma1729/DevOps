@@ -1,0 +1,20 @@
+They are free and open-source with multiple backups and added staging areas.
+GIT provides users to work with both online and offline. Commit operations are possible even if offline. GIT repository plays a vital role which is a large hash table.
+GIT has the last commit (undo operations) and revert options for unnecessary changes.
+It has a good feature called Restore delete a commit, which is essential in larger projects.
+They have good security protection against the alteration of files and maintains the authentic history of source files. In git, any revision is given a 40-bit key for all the repositories copies.
+GIT has better flexibility by supporting non-linear development workflows for both large and smaller projects. They read data directly from the local.
+GIT has integrity (means they are check-summed) with SHA-1 inside and distributed development (changes are copied from one repository to the other).
+They make use of a pack file that stores a large number of compressed object files in a single file. In Git, we can easily work with our own workflow (feature-based workflow).
+They have good compatibility with protocols like HTTP, FTP, rsync to publish the repositories and have portable control systems.
+The basic characteristics include they support whole package versions. For remote connectivity, they use HTTP for read-only access. Branches are light -weighted.
+Applications of GIT
+Given below are the applications of GIT:
+
+GIT in product management – they give up more frequent customer feedback and updates.
+It can be used as a graphical application.
+Government Agencies use GITHUB to share and collaborate processes (They can add their organizations and create pull request).
+It helps in building real-time web applications and is popularly used in Android applications as well as many commercial organizations. They increase the team’s productivity with continuous integration and developments.
+GIT can be used in various Operating systems like Fedora, Windows, Red Hat, and other Linux systems using GIT commands.
+They are used to develop core Linux kernel.
+Used in many open source projects like Ruby on Rails, Perl, the Linux Kernel.
