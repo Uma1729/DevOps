@@ -1,0 +1,17 @@
+name: Simple Workflow
+
+on:
+  push:
+    branches:
+      - main  # Trigger on push to the `main` branch
+
+jobs:
+  hello_world:
+    runs-on: ubuntu-latest  # This will run on the latest Ubuntu environment
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2  # Checks out the code from the repository
+
+      - name: Hello World
+        run: echo "Hello, world!"  # Simple command to print "Hello, world!"
